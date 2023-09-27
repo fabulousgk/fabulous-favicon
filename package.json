@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/fabulousgk/fabulous-favicon/issues"
   },
-  "homepage": "https://github.com/fabulousgk/fabulous-favicon#readme"
+  "homepage": "https://github.com/fabulousgk/fabulous-favicon#readme",
+  "dependencies": {
+    "comander": "^0.0.1-security",
+    "rfg-api": "^0.5.3"
+  }
 }
