@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/fabulousgk/fabulous-favicon#readme",
   "dependencies": {
-    "comander": "^0.0.1-security",
+    "commander": "^11.0.0",
     "rfg-api": "^0.5.3"
   }
 }
