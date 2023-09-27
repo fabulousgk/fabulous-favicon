@@ -6,7 +6,7 @@ const fs = require("fs");
 const { resourceLimits } = require("worker_threads");
 
 program
-  .option("-c, --config <file>", "config file (favicon.json)", "favicon.json")
+  .option("-c, --config <file>", "config file (favicon.json)", "favicon.config.json")
   .option("-i, --image <image>", "image to convert (icon.svg)", "icon.svg")
   .option("-o, --output <directory>", "output directory (images)", "images")
   .option("-b, --base <directory>", "base project directory", "");
