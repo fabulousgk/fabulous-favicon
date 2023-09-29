@@ -1,4 +1,4 @@
-![Fabulous Scaffold](img/cover.png)
+![Fabulous Favicon Generator](img/cover.png)
 # Fabulous Favicon Generator
 
 The **Fabulous Favicon Generator** is a lightweight Node.js application that simplifies the process of generating favicon files and a webmanifest to meet the requirements of modern browsers.
