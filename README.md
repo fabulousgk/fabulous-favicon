@@ -75,6 +75,5 @@ Options:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE)
 
-**The Fabulous Favicon Generator** is licensed with
 ## Fabulous Design Kit
 **The Fabulous Favicon Generator**  is part of T[The Fabulous Design Kit](https://lister.design/fabulous-design), a comprehensive suite of tools designed to assist web designers and developers in easily creating exceptional websites and applications that adhere to industry standards.
